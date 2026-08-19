@@ -1,0 +1,7 @@
+.cache/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.wrangler/
+PRIVATE.md
