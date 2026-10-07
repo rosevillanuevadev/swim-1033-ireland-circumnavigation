@@ -7,7 +7,7 @@ analysis page, recorded during the session that built it on 19 to 20 August 2026
 This is the source of truth for how this specific measurement was produced. If you are picking
 this up cold, read `docs/` in order before touching the code. The general, reusable version of
 this method lives as a Claude Code skill in a separate repository:
-[Claude Code Skills](https://github.com/rose2023va/claude-code-skills), file
+[Claude Code Skills](https://github.com/rosevillanuevadev/claude-code-skills), file
 `circumnavigation-distance/SKILL.md`. This repository is the case study that skill was
 distilled from.
 

@@ -89,5 +89,5 @@ a multi-session expedition swim recorded as separate files, that assumption shou
 unverified until checked, not as a given. The correct check is geometric: does *any* other
 recorded segment, regardless of its name or number, actually connect to this endpoint. See
 `scripts/reconstruct_true_chain.py` for the reusable implementation, and the
-[Claude Code skill](https://github.com/rose2023va/claude-code-skills) for how this is packaged for
+[Claude Code skill](https://github.com/rosevillanuevadev/claude-code-skills) for how this is packaged for
 reuse on future circumnavigation swims.

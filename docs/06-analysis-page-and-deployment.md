@@ -69,5 +69,5 @@ serves `index.html` for any unmatched path. See `scripts/wrangler.jsonc` for the
 
 Everything in this document except the WOWSA-specific dark color palette and the specific
 Cloudflare route path is landmass-agnostic. See the
-[Claude Code skill](https://github.com/rose2023va/claude-code-skills) for the packaged, reusable
+[Claude Code skill](https://github.com/rosevillanuevadev/claude-code-skills) for the packaged, reusable
 version of this whole pipeline.

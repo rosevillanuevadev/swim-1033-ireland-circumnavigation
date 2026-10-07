@@ -19,7 +19,7 @@ without reading why they happened the first time.
 ## If you are asked to do this for a different landmass or swimmer
 
 Do not fork this repository. Use the packaged, general version instead:
-[Claude Code Skills](https://github.com/rose2023va/claude-code-skills), file
+[Claude Code Skills](https://github.com/rosevillanuevadev/claude-code-skills), file
 `circumnavigation-distance/SKILL.md`. This repository is the case study that skill was written
 from; the skill is what should actually be invoked for new work.
 
